@@ -1,0 +1,30 @@
+.footer {
+    width: 100%;
+    height: 30px;
+    background-color: #151718;
+    align-items: center;
+}
+
+.footer__items {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10px;
+
+}
+
+
+.gmail {
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-size: 12px;
+  color: #7B7474;
+  font-weight: 200;
+  padding-left: 60px;
+}
+
+.links {
+    font-family: 'Montserrat Alternates', sans-serif;
+  font-size: 12px;
+  color: #7B7474;
+  font-weight: 200;
+  padding-right: 60px;
+}
